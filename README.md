@@ -2,8 +2,8 @@
 
 I’ve spent 30 years working in software — designing, building, and shipping real products.
 
-I focus on full-stack applications using modern tools like Python, React, and Terraform.  
-Everything I do follows a user-centred approach, grounded in real-world problems.
+I focus on full-stack applications and services, built with a user-centred approach.  
+I’m driven by real-world problems, not just technical ones.
 
 Most of my work has been in healthcare and financial services.  
 I’m based in the UK, working with clients across sectors and time zones.
