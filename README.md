@@ -1,6 +1,6 @@
 # 👋 Hi, I’m Mark
 
-I’ve spent 30 years working in software — designing, building, and shipping real products.
+I’ve spent 30 years working in software designing, building, and shipping real products.
 
 I focus on full-stack applications and services, built with a user-centred approach.  
 I’m driven by real-world problems, not just technical ones.
